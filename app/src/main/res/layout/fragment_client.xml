@@ -100,6 +100,7 @@
             android:ems="15"
             android:hint="@string/topic_text"
             android:inputType="text"
+            android:text="$oc/devices/67fcbde85367f573f782aca1_dev1/sys/properties/report"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textview_subtopic" />
